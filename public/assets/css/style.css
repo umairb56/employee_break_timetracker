@@ -1,0 +1,4 @@
+.timer { font-size: 4rem; font-weight: 600; font-variant-numeric: tabular-nums; line-height: 1.1; }
+.navbar .nav-link { padding-left: .9rem; padding-right: .9rem; }
+.card-stat .display-6 { font-variant-numeric: tabular-nums; }
+.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
